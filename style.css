@@ -6,19 +6,22 @@ body {
 
 .header-line {
     font-size: 55px;
+    font-weight: 500;
 }
 
 #header {
+    width: 100vw;
+    height: 100vh;
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
 }
 
 .text {
-    font-weight: bold;
+
     text-align: center;
     color: white;
     text-align: center;
-    padding: 5% 20%;
+    padding: 15% 25%;
 }
 
 .button {
@@ -29,5 +32,5 @@ body {
 }
 
 .button:hover {
-    color: rgb(223, 223, 100);
+    color: gold;
 }
