@@ -1,0 +1,33 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+.header-line {
+    font-size: 55px;
+}
+
+#header {
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+}
+
+.text {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    text-align: center;
+    padding: 5% 20%;
+}
+
+.button {
+    text-decoration: none;
+    background-color: #FF5959;
+    color: white;
+    padding: 10px 40px;
+}
+
+.button:hover {
+    color: rgb(223, 223, 100);
+}
