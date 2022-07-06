@@ -1,12 +1,12 @@
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0%;
     padding: 0%;
 }
 
 .header-line {
     font-size: 55px;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 #header {
@@ -17,10 +17,8 @@ body {
 }
 
 .text {
-
     text-align: center;
-    color: white;
-    text-align: center;
+    color: rgb(238, 238, 238);
     padding: 15% 25%;
 }
 
@@ -33,4 +31,65 @@ body {
 
 .button:hover {
     color: gold;
+}
+
+.size_of_h1 {
+    color: rgb(44, 43, 43);
+    font-size: 45px;
+    font-weight: 700;
+    text-align: center;
+    margin: 5% 0% 0% 0%;
+}
+
+.para_size {
+    text-align: center;
+    padding: 5px 25% 5% 25%;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+
+}
+
+.tk {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(44, 43, 43);
+    background-color: rgb(236, 235, 235);
+    padding: 50px 30px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+
+.b2 {
+    margin-left: 1%;
+}
+
+.b3 {
+    margin-left: 1%;
+}
+
+.b4 {
+    margin-left: 1%;
+}
+
+.b5 {
+    margin-left: 1%;
+}
+
+.hv:hover {
+    color: #FF5959;
+    background-color: #ffdada;
+    border: 2px solid #FF5959;
+}
+
+hr {
+    color: rgb(44, 43, 43);
+    width: 60%;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
 }
