@@ -41,6 +41,8 @@ body {
     margin: 5% 0% 0% 0%;
 }
 
+
+
 .para_size {
     text-align: center;
     padding: 5px 25% 5% 25%;
@@ -49,7 +51,7 @@ body {
 .box {
     display: flex;
     justify-content: center;
-
+    margin-top: -70px;
 }
 
 .tk {
@@ -84,12 +86,24 @@ body {
     color: #FF5959;
     background-color: #ffdada;
     border: 2px solid #FF5959;
+    margin-top: 1px;
 }
 
 hr {
+
     color: rgb(44, 43, 43);
     width: 60%;
     margin-top: 10%;
     margin-left: auto;
     margin-right: auto;
+}
+
+.hruler {
+    margin-top: -90px;
+}
+
+
+
+.amount {
+    text-align: center;
 }
