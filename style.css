@@ -219,7 +219,7 @@ footer .lastpart {
 
 .ftext {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     padding: -100%;
 }
 
@@ -230,6 +230,7 @@ footer .lastpart {
 }
 
 footer {
+    text-align: center;
     display: block;
     width: 100vw;
     height: 410px;
